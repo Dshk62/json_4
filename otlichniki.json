@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Клим",
+    "surname": "Ковалевский",
+    "patronymic": "Парампарович",
+    "course": 2,
+    "group": 6,
+    "studentCardNumber": "23230602",
+    "sessions": [
+      {
+        "sessionNumber": 2,
+        "recordexams": [
+          {
+            "subject": "Математика",
+            "grade": 10.0
+          },
+          {
+            "subject": "Алгоритмы",
+            "grade": 9.0
+          }
+        ],
+        "recordcredit": []
+      },
+      {
+        "sessionNumber": 3,
+        "recordexams": [
+          {
+            "subject": "Java",
+            "grade": 10.0
+          }
+        ],
+        "recordcredit": [
+          {
+            "subject": "Математика",
+            "zach": "зач"
+          }
+        ]
+      },
+      {
+        "sessionNumber": 2,
+        "recordexams": [],
+        "recordcredit": []
+      },
+      {
+        "sessionNumber": 3,
+        "recordexams": [],
+        "recordcredit": []
+      }
+    ]
+  },
+  {
+    "name": "Дарья",
+    "surname": "Гриб",
+    "patronymic": "Таратара-пумпумпум",
+    "course": 2,
+    "group": 6,
+    "studentCardNumber": "23230606",
+    "sessions": [
+      {
+        "sessionNumber": 2,
+        "recordexams": [
+          {
+            "subject": "Математика",
+            "grade": 10.0
+          },
+          {
+            "subject": "Алгоритмы",
+            "grade": 9.0
+          }
+        ],
+        "recordcredit": []
+      },
+      {
+        "sessionNumber": 3,
+        "recordexams": [
+          {
+            "subject": "Java",
+            "grade": 10.0
+          }
+        ],
+        "recordcredit": [
+          {
+            "subject": "Математика",
+            "zach": "зач"
+          }
+        ]
+      },
+      {
+        "sessionNumber": 2,
+        "recordexams": [],
+        "recordcredit": []
+      },
+      {
+        "sessionNumber": 3,
+        "recordexams": [],
+        "recordcredit": []
+      }
+    ]
+  },
+  {
+    "name": "Никита",
+    "surname": "Горошко",
+    "patronymic": "Тырыпыры",
+    "course": 2,
+    "group": 6,
+    "studentCardNumber": "23234564",
+    "sessions": [
+      {
+        "sessionNumber": 2,
+        "recordexams": [
+          {
+            "subject": "Математика",
+            "grade": 9.0
+          },
+          {
+            "subject": "Алгоритмы",
+            "grade": 10.0
+          }
+        ],
+        "recordcredit": []
+      },
+      {
+        "sessionNumber": 3,
+        "recordexams": [
+          {
+            "subject": "Java",
+            "grade": 10.0
+          }
+        ],
+        "recordcredit": [
+          {
+            "subject": "Математика",
+            "zach": "зач"
+          }
+        ]
+      },
+      {
+        "sessionNumber": 2,
+        "recordexams": [],
+        "recordcredit": []
+      },
+      {
+        "sessionNumber": 3,
+        "recordexams": [],
+        "recordcredit": []
+      }
+    ]
+  }
+]
